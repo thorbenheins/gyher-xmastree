@@ -1,5 +1,11 @@
+/*
+---
 name: X-Mas Tree - jsFiddle/Github integration demo
 description: jsFiddle demo hosted on Github with an xmas tree
 authors:
   - Thorben Heins
 normalize_css: no
+...
+*/
+
+<p>This demo will show you how to: make a xmas tree blink</p>

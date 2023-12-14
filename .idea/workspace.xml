@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2ea8702-a75f-4553-8ae7-7ebc708fd882" name="Changes" comment="" />
+    <list default="true" id="c2ea8702-a75f-4553-8ae7-7ebc708fd882" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmastree/xmastree.css" beforeDir="false" afterPath="$PROJECT_DIR$/xmastree/demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmastree/xmastree.details" beforeDir="false" afterPath="$PROJECT_DIR$/xmastree/demo.details" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmastree/xmastree.html" beforeDir="false" afterPath="$PROJECT_DIR$/xmastree/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmastree/xmastree.js" beforeDir="false" afterPath="$PROJECT_DIR$/xmastree/demo.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +42,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -44,6 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702547931960</updated>
+      <workItem from="1702547933036" duration="1858000" />
     </task>
     <servers />
   </component>
